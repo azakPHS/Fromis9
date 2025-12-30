@@ -1,0 +1,22 @@
+1. cd ~
+2. mkdir workspace
+3. cd workspace
+4. ls -al
+5. git clone https://github.com/azakPHS/bu-server.git
+6. cd bu-server
+7. pwd
+8. mkdir etc
+9. cd etc
+10. touch test
+11. echo "test" > test 
+12. echo "test2" > test
+13. cat test
+14. chmod 755 test
+15. cd .. (?)
+16. du -sh
+17. find -name test
+18. 1. rm workspace/bu-server/etc/test    2. rm -r ./etc/test  3. rm ./etc/test
+19. echo "hi" > hello.txt
+20. mv hello.txt hello2.txt
+21. cp hello2.txt hello3.txt
+22. history
